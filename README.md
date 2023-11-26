@@ -8,7 +8,7 @@ The algorithm was first published in a 1975 computer science paper by Dan Hirsch
 
 ## Objectives
 1. **Accurate sequence alignment** - First and foremost, our primary goal is to implement Hirschberg's algorithm in a way that _correctly_ and _accurately_ aligns different biological sequences in the most optimal manner. To test correctness, and also to demonstrate the practical use of Hirschberg's algorithm, we will run our implementation and calculate alignments of genomic sequences from various biological domains.
-2. **Quantifying space efficiency/memory savings** - Our secondary goal is to analyze the space efficiency of Hirschberg's algorithm, and quantify the memory saved. In order to do so, we will compare Hirscheberg's performance with Needleman-Wunsch, on the same input sequences. We will then analyze and illustrate concrete metrics to demonstrate the space efficiency of Hirschberg.
+2. **Quantifying space efficiency/memory savings** - Our secondary goal is to analyze the space efficiency of Hirschberg's algorithm, and quantify the memory saved. In order to do so, we will compare Hirschberg's performance with Needleman-Wunsch, on the same input sequences. We will then analyze and illustrate concrete metrics to demonstrate the space efficiency of Hirschberg.
 
 ## Installation
 
