@@ -31,3 +31,5 @@ For this project, we gathered our input sequence data from the NCBI's Genome Res
 5. https://www.cs.cmu.edu/~ckingsf/class/02-714/Lec07-linspace.pdf
 6. https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/06DynamicProgrammingII.pdf
 7. https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm
+8. https://en.wikipedia.org/wiki/Rickettsiales
+9. https://www.frontiersin.org/articles/10.3389/fimmu.2020.589929
