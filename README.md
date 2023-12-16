@@ -11,10 +11,19 @@ The algorithm was first published in a 1975 computer science paper by Dan Hirsch
 2. **Quantifying space efficiency/memory savings** - Our secondary goal is to analyze the space efficiency of Hirschberg's algorithm, and quantify the memory saved. In order to do so, we will compare Hirschberg's performance with Needleman-Wunsch, on the same input sequences. We will then analyze and illustrate concrete metrics to demonstrate the space efficiency of Hirschberg.
 
 ## Installation
+For installation, you can simply download the Jupyter notebook included in the repository, `global_alignment.ipynb`, as well as the four corresponding text files with input sequence data. Then, you can open the Jupyter notebook in Google Colab and upload the text files manually by using the navigation bar to the left of the screen. In particular, you can click on the folder icon – followed by the file upload icon – to upload `human_mitochondrion.txt`, `human_tert.txt`, `human_tp53.txt`, and `rickettsiales_bacterium_exercept.txt` into the environment.
 
 ## Usage
+To run the code in Google Colab, you can click on the play button next to each cell or use Shift+Enter. Any required packages or libraries should be automatically installed and imported. Alternatively, you can run all of the cells at once by selecting _Runtime_ followed by _Run all_.
 
-## Resources
+## Data
+For this project, we gathered our input sequence data from the NCBI's Genome Resource. A list of the specific websites where we obtained the data is included below.
+1. [Human mitochondrion](https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta)
+2. [Rickettsiales bacteria](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_024304995.1/)
+3. [Human TP53 gene](https://www.ncbi.nlm.nih.gov/gene/7157)
+4. [Human TERT gene](https://www.ncbi.nlm.nih.gov/gene/7015)
+
+##  Additional Resources
 1. https://academic.oup.com/bioinformatics/article/4/1/11/205106
 2. https://courses.grainger.illinois.edu/cs466/sp2020/slides/Lecture6_Hirschberg.pdf
 3. https://dl.acm.org/doi/10.1145/360825.360861
